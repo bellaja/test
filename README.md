@@ -1,5 +1,5 @@
 # Hello, world!
 
-I study in Netology
+I study in Neсology
 
 101036
